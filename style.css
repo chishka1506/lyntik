@@ -1,0 +1,69 @@
+.contaner{
+    width: 1900px;
+    min-height: 300px;
+    background-color: blue;
+}
+
+.nachalo{
+    width: 1900px;
+    height: 1000px;
+    background-image: url(img/picture.png);
+    background-size: cover;
+}
+
+.face{
+    width: 1900px;
+    height: 1000px;
+    background: linear-gradient(to bottom, rgba(243, 101, 101, 0.767), rgba(247, 217, 117, 0.781) );
+}
+
+.mogo{
+    width: 1900px;
+    height: 95px;
+   
+    display: flex;
+
+}
+
+.mgo{
+    width: 730px;
+    height: 95px;
+    
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about{
+    width: 1170px;
+    height: 95px;
+   
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 50px;
+    font-size: 14px;
+}
+
+.abob{
+    color: rgb(240, 232, 121);
+}
+
+.cimbios{
+    width: 70px;
+    height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+}
+
+.line{
+    width: 60px;
+    height: 2px;
+    background-color: rgb(240, 232, 121) ;
+}
